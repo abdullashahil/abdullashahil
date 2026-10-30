@@ -1,2 +1,1 @@
-![abdullashahil's Stats](https://github-readme-stats.vercel.app/api?username=abdullashahil&theme=default&show_icons=true&hide_border=true&count_private=true)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashahil&theme=default&show_icons=true&hide_border=true&layout=compact)
+https://ghstats.dev/api/card?username=abdullashahil&show_ring=false&hide_border=true&hide_title=true&border_radius=0&custom_title=My+Github+STats&hide=grade%2Cfollowers%2Cissues%2Chours
